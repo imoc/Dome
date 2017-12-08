@@ -15,9 +15,6 @@ import java.util.Random;
  */
 
 public class Teacher extends Worker {
-    public static Teacher getInstance() {
-        return;
-    }
 
     @Override
     public void sing() {
