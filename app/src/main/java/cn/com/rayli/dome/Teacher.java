@@ -12,6 +12,7 @@ import java.util.Random;
 
 /**
  * Created by lilxiaowei on 2017-12-07.
+ * add comment on 2017-12-11
  */
 
 public class Teacher extends Worker {
